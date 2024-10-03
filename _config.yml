@@ -53,8 +53,3 @@ plugins:
 #   - vendor/cache/
 #   - vendor/gems/
 #   - vendor/ruby/
-plugins:
-  - jekyll-feed
-title: 仁宇精神推廣策進會新聞中心
-description: 仁宇精神的宣傳機構
-author: 策進會宣傳事務處
