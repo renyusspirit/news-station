@@ -31,7 +31,7 @@ document.addEventListener('click', function(event) {
 // Go to homepage when clicking the title
 document.getElementById('pageTitle').addEventListener('click', function(event) {
     event.stopPropagation(); // 防止点击事件冒泡
-    window.location.href = '/';
+    window.location.href = '/news-station/';
 });
 
 var actionButton = document.getElementById('actionButton');
