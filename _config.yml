@@ -1,4 +1,4 @@
-plugins:
+gems:
   - jekyll-feed
 title: rspanews
 description: Official News Centre of RSPA
