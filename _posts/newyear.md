@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Welcome to Jekyll!"
+title:  "newyear"
 date:   2024-10-03 23:20:32 +0800
 categories: newway
 ---
