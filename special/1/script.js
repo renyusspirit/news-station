@@ -34,10 +34,10 @@ document.getElementById('pageTitle').addEventListener('click', function(event) {
     window.location.href = '/news-station';
 });
 
-var actionButton = document.getElementById('actionButton');
+var swayButton = document.getElementById('sway');
 
 // 为按钮添加点击事件监听器
-actionButton.addEventListener('click', function() {
+swayButton.addEventListener('click', function() {
     // 在这里编写您希望在点击按钮时执行的代码
-    window.location.href = './structure';
+    window.location.href = 'https://sway.cloud.microsoft/A4cNqQxk8mhro6HQ';
 });

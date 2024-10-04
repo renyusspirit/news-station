@@ -189,7 +189,7 @@ h1.highlight {
     display: block; /* 使按钮块级显示，居中显示 */
     width: auto;
     padding: 10px 20px; /* 添加一些内边距 */
-    margin: 20px auto; /* 自动边距实现居中 */
+    margin: 20px left; /* 自动边距实现居中 */
     background-color: #d32f2f; /* 按钮背景颜色 */
     color: white; /* 文字颜色 */
     border: none; /* 移除边框 */
